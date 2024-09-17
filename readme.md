@@ -15,6 +15,7 @@ Instagram Flutter is an Instagram-like application built with Flutter. This appl
 - [Dart](https://dart.dev/get-dart)
 - Java 
 - spring-boot
+- mysql
 
 ## Instalasi
 
@@ -51,8 +52,8 @@ Instagram Flutter is an Instagram-like application built with Flutter. This appl
 
 # Screenshoot
 
-| Column 1 Header | Column 2 Header | Column 3 Header | Column 3 Header | Column 3 Header | Column 3 Header |
+| Login | home - feed | add comment | show comment - empty | Column 3 Header | Column 3 Header |
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
-| Row 1, Cell 1   | Row 1, Cell 2   | Row 1, Cell 3   | Row 1, Cell 3   | Row 1, Cell 3   | Row 1, Cell 3   |
+| ![login-ig](https://github.com/user-attachments/assets/f9b32eaf-8a5c-46fb-8ddc-0e5ca43a4153)   | ![feed](https://github.com/user-attachments/assets/fcf00d45-8266-40e3-ac30-0cfbb4736d1f)  | ![add-comment](https://github.com/user-attachments/assets/511c0f05-f00a-422f-a1ef-ac6891012d47)   | ![show-comment](https://github.com/user-attachments/assets/3c6ad68d-0da4-42cb-80b1-8204f1cb3c72)   | Row 1, Cell 3   | Row 1, Cell 3   |
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 
